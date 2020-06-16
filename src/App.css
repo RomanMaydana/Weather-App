@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+@media (max-width: 46em){
+  .details{
+    background-color: red;
+  }
+}
